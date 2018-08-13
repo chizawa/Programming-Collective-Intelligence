@@ -1,0 +1,10 @@
+http://gofugyourself.typepad.com/go_fug_yourself/index.rdf
+http://googleblog.blogspot.com/rss.xml
+http://feeds.feedburner.com/GoogleOperatingSystem
+http://headrush.typepad.com/creating_passionate_users/index.rdf
+http://joi.ito.com/index.rdf
+http://feeds.feedburner.com/Mashable
+http://moblogsmoproblems.blogspot.com/rss.xml
+http://newsbusters.org/node/feed
+http://feeds.feedburner.com/paulstamatiou
+http://www.unsv.com/voanews/words-and-idioms/rss/
